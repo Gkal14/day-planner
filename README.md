@@ -7,4 +7,4 @@ Below is a screenshot which displays the applications functionality as well as a
 
 ![day planner](./assets/day-planner.png)
 
-Application link:
+Application link: https://gkal14.github.io/day-planner/
